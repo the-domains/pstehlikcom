@@ -1,4 +1,3 @@
-layout_spectrum: 0.48949578148312867
 typography_spectrum: 0.5857376093044877
 color:
   brandStrength: 0.7361615309491754
@@ -11,5 +10,7 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.48949578148312867
 name: pstehlik.com
 title: Hi There
+description: things I do and say
