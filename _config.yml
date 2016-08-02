@@ -1,0 +1,14 @@
+layout_spectrum: 0.48949578148312867
+typography_spectrum: 0.5857376093044877
+color:
+  brandStrength: 0.7361615309491754
+  lightness: 0.1309566858690232
+  saturation: 0.2477700370363891
+  rhythmicContrast: 0.09398022945970297
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
+name: pstehlik.com
